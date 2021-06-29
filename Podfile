@@ -17,6 +17,7 @@ target 'HKBaseClasses' do
   pod 'IQKeyboardManager'
   pod 'SGQRCode'
   pod 'MJRefresh'
+  pod 'JJException'
 #  pod 'AFNetworking'
   pod 'AAChartKit', :git => 'https://github.com/AAChartModel/AAChartKit.git'
 

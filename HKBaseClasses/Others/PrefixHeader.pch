@@ -17,6 +17,7 @@
 #import <SDWebImage/SDWebImage.h>
 #import <IQKeyboardManager/IQKeyboardManager.h>
 #import <MJRefresh/MJRefresh.h>
+#import <JJException/JJException.h>
 
 #import "HKCategories.h"
 #import "YYFPSLabel.h"

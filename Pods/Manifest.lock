@@ -4,6 +4,24 @@ PODS:
     - FMDB/standard (= 2.7.5)
   - FMDB/standard (2.7.5)
   - IQKeyboardManager (6.5.5)
+  - JJException (0.2.9):
+    - JJException/All (= 0.2.9)
+  - JJException/All (0.2.9):
+    - JJException/ARC
+    - JJException/DeallocBlock
+    - JJException/Main
+    - JJException/MRC
+    - JJException/Swizzle
+  - JJException/ARC (0.2.9):
+    - JJException/DeallocBlock
+    - JJException/Main
+    - JJException/Swizzle
+  - JJException/DeallocBlock (0.2.9)
+  - JJException/Main (0.2.9)
+  - JJException/MRC (0.2.9):
+    - JJException/Main
+    - JJException/Swizzle
+  - JJException/Swizzle (0.2.9)
   - Masonry (1.1.0)
   - MBProgressHUD (1.2.0)
   - MJRefresh (3.5.0)
@@ -21,6 +39,7 @@ DEPENDENCIES:
   - AAChartKit (from `https://github.com/AAChartModel/AAChartKit.git`)
   - FMDB
   - IQKeyboardManager
+  - JJException
   - Masonry
   - MBProgressHUD
   - MJRefresh
@@ -34,6 +53,7 @@ SPEC REPOS:
   trunk:
     - FMDB
     - IQKeyboardManager
+    - JJException
     - Masonry
     - MBProgressHUD
     - MJRefresh
@@ -56,6 +76,7 @@ SPEC CHECKSUMS:
   AAChartKit: a62caf524117fcf19e7c8b4f10acbf58dcb08359
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  JJException: da7c64ccf29d9938a4075378a7e9a29db7383c37
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
@@ -65,6 +86,6 @@ SPEC CHECKSUMS:
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
-PODFILE CHECKSUM: d395eaea52d2d74eb91892f3761a3ecbd9ef5caf
+PODFILE CHECKSUM: bff682283d309b80063cc1b8705d34a9032d4762
 
 COCOAPODS: 1.9.3

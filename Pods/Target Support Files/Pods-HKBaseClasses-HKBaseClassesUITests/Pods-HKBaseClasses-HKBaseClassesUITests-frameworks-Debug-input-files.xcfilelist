@@ -2,6 +2,7 @@ ${PODS_ROOT}/Target Support Files/Pods-HKBaseClasses-HKBaseClassesUITests/Pods-H
 ${BUILT_PRODUCTS_DIR}/AAChartKit/AAChartKit.framework
 ${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
 ${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/JJException/JJException.framework
 ${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
 ${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
 ${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework

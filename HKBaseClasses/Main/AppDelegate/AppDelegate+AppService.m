@@ -14,6 +14,10 @@
     [IQKeyboardManager sharedManager].enable = YES;
     [IQKeyboardManager sharedManager].shouldResignOnTouchOutside = YES;
     [IQKeyboardManager sharedManager].toolbarTintColor = [UIColor blackColor];
+    
+    //crash防护
+    [JJException configExceptionCategory:JJExceptionGuardAll];
+    [JJException startGuardException];
 }
 
 - (void)add3dTouch {
