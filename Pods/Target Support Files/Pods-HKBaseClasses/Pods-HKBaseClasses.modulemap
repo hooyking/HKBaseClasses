@@ -1,0 +1,6 @@
+framework module Pods_HKBaseClasses {
+  umbrella header "Pods-HKBaseClasses-umbrella.h"
+
+  export *
+  module * { export * }
+}

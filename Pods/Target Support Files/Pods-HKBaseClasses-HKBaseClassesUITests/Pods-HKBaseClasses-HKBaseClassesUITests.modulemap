@@ -1,0 +1,6 @@
+framework module Pods_HKBaseClasses_HKBaseClassesUITests {
+  umbrella header "Pods-HKBaseClasses-HKBaseClassesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

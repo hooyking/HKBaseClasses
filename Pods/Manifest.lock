@@ -1,0 +1,70 @@
+PODS:
+  - AAChartKit (4.0.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManager (6.5.5)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.5.0)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+  - SGQRCode (3.0.1)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AAChartKit (from `https://github.com/AAChartModel/AAChartKit.git`)
+  - FMDB
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - SDWebImage
+  - SGQRCode
+  - YYCategories
+  - YYModel
+  - YYText
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - SGQRCode
+    - YYCategories
+    - YYModel
+    - YYText
+
+EXTERNAL SOURCES:
+  AAChartKit:
+    :git: https://github.com/AAChartModel/AAChartKit.git
+
+CHECKOUT OPTIONS:
+  AAChartKit:
+    :commit: 656272542a24dcb0340a24f7576f5070f4df0978
+    :git: https://github.com/AAChartModel/AAChartKit.git
+
+SPEC CHECKSUMS:
+  AAChartKit: a62caf524117fcf19e7c8b4f10acbf58dcb08359
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  SGQRCode: bf02d60e18d6660a9d75ff1c8b9b467f064f054e
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: d395eaea52d2d74eb91892f3761a3ecbd9ef5caf
+
+COCOAPODS: 1.9.3
