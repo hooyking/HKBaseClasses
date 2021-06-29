@@ -6,11 +6,11 @@
 //  Copyright © 2020 hooyking. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "HKTableViewController.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface FirstViewController : UITableViewController
+@interface FirstViewController : HKTableViewController
 
 @end
 
